@@ -28,12 +28,24 @@
     - [Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)](https://github.com/yeszao/dnmp)
   - ##### cnlh/nps
     - [一款轻量级、功能强大的内网穿透代理服务器](https://github.com/cnlh/nps)
-  - ##### nwjs-community/nw-builder
-    - [Build your NW.js apps for Mac, Win and Linux programmatically or via CLI](https://github.com/nwjs-community/nw-builder)
-  - ##### nodejs/node-gyp
-    - [Node.js native addon build tool](https://github.com/nodejs/node-gyp)
   - ##### DimitarPetrov/stegify
     - [Go tool for LSB steganography, capable of hiding any file within an image.](https://github.com/DimitarPetrov/stegify)
+  - ##### tldr-pages/tldr
+    - [Simplified and community-driven man pages](https://github.com/tldr-pages/tldr)
+  - ##### flyzy2005/ss-fly
+    - [一键脚本搭建ss/ssr并开启bbr内核加速（Ubuntu/CentOS/Debian）](https://github.com/flyzy2005/ss-fly)
+  - ##### ToyoDAdoubi/doubi
+    - [一个逗比写的各种逗比脚本~](https://github.com/ToyoDAdoubi/doubi)
+  - ###### import-yuefeng/ShadowsocksDocker
+    - [ShadowsocksDocker install](https://github.com/import-yuefeng/ShadowsocksDocker)
+  - ##### SpaceVim/SpaceVim
+    - [A community-driven modular vim distribution - The ultimate vim configuration](https://github.com/SpaceVim/SpaceVim)
+  - ##### instantbox/instantbox
+    - [Get a clean, ready-to-go Linux box in seconds.](https://github.com/instantbox/instantbox)
+  - ##### facert/awesome-spider
+    - [爬虫集合](https://github.com/facert/awesome-spider)
+  - ##### justjavac/ReplaceGoogleCDN
+    - [一个 Chrome 插件：将 Google CDN 替换为国内的](https://github.com/justjavac/ReplaceGoogleCDN)
 
 - #### 代码相关
   - ##### chokcoco/CSS-Inspiration
@@ -46,6 +58,10 @@
     - [The fastest unity lua binding solution](https://github.com/topameng/tolua)
   - ##### lodash/lodash
     - [A modern JavaScript utility library delivering modularity, performance, & extras](https://github.com/lodash/lodash)
+  - ##### nwjs-community/nw-builder
+    - [Build your NW.js apps for Mac, Win and Linux programmatically or via CLI](https://github.com/nwjs-community/nw-builder)
+  - ##### nodejs/node-gyp
+    - [Node.js native addon build tool](https://github.com/nodejs/node-gyp)
   
 
 - #### 其他
@@ -88,3 +104,8 @@
   - [基于nodejs的股票数据爬虫](https://github.com/andyesfly/dipiper)
 - ##### waditu/tushare
   - [TuShare is a utility for crawling historical data of China stocks](https://github.com/waditu/tushare)
+- ##### zhaoolee/ChromeAppHeroes
+  - [谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类](https://github.com/zhaoolee/ChromeAppHeroes)
+- ##### 1c7/chinese-independent-developer
+  - [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/1c7/chinese-independent-developer)
+  
