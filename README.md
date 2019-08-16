@@ -46,6 +46,12 @@
     - [爬虫集合](https://github.com/facert/awesome-spider)
   - ##### justjavac/ReplaceGoogleCDN
     - [一个 Chrome 插件：将 Google CDN 替换为国内的](https://github.com/justjavac/ReplaceGoogleCDN)
+  - ##### bumaociyuan/ios-ipa-server
+    - [Create a HTTPS Server to install iOS ipa](https://github.com/bumaociyuan/ios-ipa-server)
+  - ##### gogs/gogs
+    - [Gogs is a painless self-hosted Git service.](https://github.com/gogs/gogs)
+  - ##### lifei6671/mindoc
+    - [Golang实现的基于beego框架的接口在线文档管理系统](https://github.com/lifei6671/mindoc)
 
 - #### 代码相关
   - ##### chokcoco/CSS-Inspiration
@@ -58,10 +64,40 @@
     - [The fastest unity lua binding solution](https://github.com/topameng/tolua)
   - ##### lodash/lodash
     - [A modern JavaScript utility library delivering modularity, performance, & extras](https://github.com/lodash/lodash)
+  - ##### nwjs/nw.js
+    - [Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.](https://github.com/nwjs/nw.js)
   - ##### nwjs-community/nw-builder
     - [Build your NW.js apps for Mac, Win and Linux programmatically or via CLI](https://github.com/nwjs-community/nw-builder)
   - ##### nodejs/node-gyp
     - [Node.js native addon build tool](https://github.com/nodejs/node-gyp)
+  - ##### remember17/WHToast
+    - [iOS提示框,Toast](https://github.com/remember17/WHToast)
+  - ##### greenheartgames/greenworks
+    - [a node.js plugin to integrate nw.js/electron games with steamworks](https://github.com/greenheartgames/greenworks)
+  - ##### zenorocha/clipboard.js
+    - [Modern copy to clipboard. No Flash. Just 3kb gzipped](https://github.com/zenorocha/clipboard.js)
+  - ##### yuantiku/YTKKeyValueStore
+    - [A simple Key-Value storage tool, using Sqlite as backend](https://github.com/yuantiku/YTKKeyValueStore)
+  - ##### CoderMJLee/MJExtension
+    - [A fast, convenient and nonintrusive conversion framework between JSON and model](https://github.com/CoderMJLee/MJExtension)
+  - ##### yuantiku/YTKNetwork
+    - [YTKNetwork is a high level request util based on AFNetworking.](https://github.com/yuantiku/YTKNetwork)
+  - ##### pinterest/PINRemoteImage
+    - [A thread safe, performant, feature rich image fetcher](https://github.com/pinterest/PINRemoteImage)
+  - ##### ideawu/cocoaui
+    - [Build adaptive UI for iOS Apps with flow-layout and CSS properties](https://github.com/ideawu/cocoaui)
+  - ##### ideawu/ssdb
+    - [SSDB - A fast NoSQL database, an alternative to Redis](https://github.com/ideawu/ssdb)
+  - ##### VincentGarreau/particles.js
+    - [A lightweight JavaScript library for creating particles](https://github.com/VincentGarreau/particles.js)
+  - ##### Tim9Liu9/TimLiu-iOS
+    - [iOS开发常用三方库、插件、知名博客等等](https://github.com/Tim9Liu9/TimLiu-iOS)
+  - ##### ckeditor/ckeditor-releases
+    - [Official distribution releases of CKEditor 4.](https://github.com/ckeditor/ckeditor-releases)
+  - ##### hubinjie/ACI
+    - [基于PHP端后台管理程序，集成了用户管理，用户组管理，模块管理，菜单管理，权限管理](https://github.com/hubinjie/ACI)
+  - ##### bcit-ci/CodeIgniter
+    - [Open Source PHP Framework (originally from EllisLab)](https://github.com/bcit-ci/CodeIgniter)
   
 
 - #### 其他
