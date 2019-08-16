@@ -12,7 +12,7 @@
 - [图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图](https://github.com/zhanghuanchong/icon-workshop) 
 - [awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理](https://github.com/josephchang10/awesome-indie)
 - [display and control of Android devices connected on USB (or over TCP/IP)](https://github.com/Genymobile/scrcpy)
-- [CSS Inspiration，在这里找到写 CSS 的灵感！](CSS Inspiration，在这里找到写 CSS 的灵感！)
+- [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
 - [A terminal built on web technologies ](https://github.com/zeit/hyper)
 - [A terminal for a more modern age](https://github.com/Eugeny/terminus)
 - [Clone to try a simple Electron app](https://github.com/electron/electron-quick-start)
