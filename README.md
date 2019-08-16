@@ -144,4 +144,6 @@
   - [谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类](https://github.com/zhaoolee/ChromeAppHeroes)
 - ##### 1c7/chinese-independent-developer
   - [中国独立开发者项目列表 -- 分享大家都在做什么](https://github.com/1c7/chinese-independent-developer)
+- ##### anhkgg/SuperWeChatPC
+  - [超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK](https://github.com/anhkgg/SuperWeChatPC)
   
