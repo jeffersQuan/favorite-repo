@@ -9,20 +9,20 @@
 
 ## Repos
 ### 开发
-#### 工具相关
-- [图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图](https://github.com/zhanghuanchong/icon-workshop) 
-- [display and control of Android devices connected on USB (or over TCP/IP)](https://github.com/Genymobile/scrcpy)
-- [A terminal built on web technologies ](https://github.com/zeit/hyper)
-- [A terminal for a more modern age](https://github.com/Eugeny/terminus)
-- [Launcher for Windows, an alternative to Alfred and Launchy](https://github.com/Wox-launcher/Wox)
+- #### 工具相关
+  - [图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图](https://github.com/zhanghuanchong/icon-workshop) 
+  - [display and control of Android devices connected on USB (or over TCP/IP)](https://github.com/Genymobile/scrcpy)
+  - [A terminal built on web technologies ](https://github.com/zeit/hyper)
+  - [A terminal for a more modern age](https://github.com/Eugeny/terminus)
+  - [Launcher for Windows, an alternative to Alfred and Launchy](https://github.com/Wox-launcher/Wox)
 
-#### 代码相关
-- [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
-- [Clone to try a simple Electron app](https://github.com/electron/electron-quick-start)
-- [The fastest unity lua binding solution](https://github.com/topameng/tolua)
+- #### 代码相关
+  - [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
+  - [Clone to try a simple Electron app](https://github.com/electron/electron-quick-start)
+  - [The fastest unity lua binding solution](https://github.com/topameng/tolua)
 
-#### 其他
-- [awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理](https://github.com/josephchang10/awesome-indie)
+- #### 其他
+  - [awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理](https://github.com/josephchang10/awesome-indie)
 
 
 ### 博文
