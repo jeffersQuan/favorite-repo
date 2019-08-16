@@ -15,18 +15,32 @@
   - [A terminal built on web technologies ](https://github.com/zeit/hyper)
   - [A terminal for a more modern age](https://github.com/Eugeny/terminus)
   - [Launcher for Windows, an alternative to Alfred and Launchy](https://github.com/Wox-launcher/Wox)
+  - [一款功能齐全的客户端（ iOS 、Android ）研发助手](https://github.com/didi/DoraemonKit)
+  - [Docker 快速搭建 LEMP 开发环境](https://github.com/metowolf/docker-lemp)
+  - [Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)](https://github.com/yeszao/dnmp)
+  - [一款轻量级、功能强大的内网穿透代理服务器](https://github.com/cnlh/nps)
+  - [Build your NW.js apps for Mac, Win and Linux programmatically or via CLI](https://github.com/nwjs-community/nw-builder)
+  - [Node.js native addon build tool](https://github.com/nodejs/node-gyp)
+  - [Go tool for LSB steganography, capable of hiding any file within an image.](https://github.com/DimitarPetrov/stegify)
 
 - #### 代码相关
   - [CSS Inspiration，在这里找到写 CSS 的灵感！](https://github.com/chokcoco/CSS-Inspiration)
+  - [Build cross-platform desktop apps with JavaScript, HTML, and CSS](https://github.com/electron/electron)
   - [Clone to try a simple Electron app](https://github.com/electron/electron-quick-start)
   - [The fastest unity lua binding solution](https://github.com/topameng/tolua)
+  - [A modern JavaScript utility library delivering modularity, performance, & extras](https://github.com/lodash/lodash)
+  
 
 - #### 其他
   - [awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理](https://github.com/josephchang10/awesome-indie)
 
 
-### 博文
+### 文章博客
 - [科技爱好者周刊，每周五发布](https://github.com/ruanyf/weekly)
+- [GitHub 漫游指南](https://github.com/phodal/github)
+- [Git的奇技淫巧](https://github.com/521xueweihan/git-tips)
+- [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+- [Master the command line, in one page](https://github.com/jlevy/the-art-of-command-line)
 
 
 ### 游戏
