@@ -58,8 +58,6 @@
     - [Golang实现的基于beego框架的接口在线文档管理系统](https://github.com/lifei6671/mindoc)
   - ##### syhyz1990/baiduyun
     - [油猴脚本 一个脚本搞定百度网盘下载](https://github.com/syhyz1990/baiduyun)
-  - ##### Alvin9999/new-pac
-    - [免费代理pac文件](https://github.com/Alvin9999/new-pac)
 
 - #### 代码相关
   - ##### chokcoco/CSS-Inspiration
