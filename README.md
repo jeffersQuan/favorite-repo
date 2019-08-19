@@ -50,8 +50,16 @@
     - [Create a HTTPS Server to install iOS ipa](https://github.com/bumaociyuan/ios-ipa-server)
   - ##### gogs/gogs
     - [Gogs is a painless self-hosted Git service.](https://github.com/gogs/gogs)
+  - ##### foxlet/macOS-Simple-KVM
+    - [Tools to set up a quick macOS VM in QEMU, accelerated by KVM](https://github.com/foxlet/macOS-Simple-KVM)
+  - ##### termux/termux-packages
+    - [Android terminal and Linux environment - packages repository](https://github.com/termux/termux-packages)
   - ##### lifei6671/mindoc
     - [Golang实现的基于beego框架的接口在线文档管理系统](https://github.com/lifei6671/mindoc)
+  - ##### syhyz1990/baiduyun
+    - [油猴脚本 一个脚本搞定百度网盘下载](https://github.com/syhyz1990/baiduyun)
+  - ##### Alvin9999/new-pac
+    - [免费代理pac文件](https://github.com/Alvin9999/new-pac)
 
 - #### 代码相关
   - ##### chokcoco/CSS-Inspiration
