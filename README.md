@@ -14,6 +14,8 @@
     - [图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标和启动图](https://github.com/zhanghuanchong/icon-workshop) 
   - ##### Genymobile/scrcpy
     - [display and control of Android devices connected on USB (or over TCP/IP)](https://github.com/Genymobile/scrcpy)
+  - ##### b3log/baidu-netdisk-downloaderx
+    - [一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac](https://github.com/b3log/baidu-netdisk-downloaderx)
   - ##### zeit/hyper
     - [A terminal built on web technologies ](https://github.com/zeit/hyper)
   - ##### Eugeny/terminus
