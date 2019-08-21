@@ -11,7 +11,7 @@
   - [开发](#开发)
     - [工具相关](#工具相关)
     - [代码相关](#代码相关)
-    - [其他](#其他)
+    - [杂项](#杂项)
   - [文章博客](#文章博客)
   - [游戏](#游戏)
   - [操作系统](#操作系统)
@@ -120,7 +120,7 @@
     - [Open Source PHP Framework (originally from EllisLab)](https://github.com/bcit-ci/CodeIgniter)
   
 
-- #### 其他
+- #### 杂项
   - ##### josephchang10/awesome-indie
     - [awesome-indie 中文版 - 帮助独立开发者赚钱的资源整理](https://github.com/josephchang10/awesome-indie)
 
