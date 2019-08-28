@@ -151,6 +151,8 @@
 ### 资源
 - ##### pwxcoo/chinese-xinhua
   - [中华新华字典数据库。包括歇后语，成语，词语，汉字。](https://github.com/pwxcoo/chinese-xinhua)
+- ##### byoungd/English-level-up-tips-for-Chinese
+  - [可能是让你受益匪浅的英语进阶指南](https://github.com/byoungd/English-level-up-tips-for-Chinese)
 
 
 ### 其他
